@@ -28,7 +28,6 @@ cd
     Abre phpMyAdmin o tu herramienta SQL favorita.
     Crea una base de datos llamada concesionario.
     Importa el archivo database/concesionario.sql en phpMyAdmin.
-
 🔹 4. Configurar la conexión a la base de datos
 
 Edita el archivo src/php/db.php y asegúrate de que los datos de conexión coinciden con tu entorno:
